@@ -47,7 +47,7 @@ Contains general information and links at the bottom of the application.
 - JSON (Used for data storage and communication)
 - ESLint (Ensures code quality and consistency)
 
-## How to Run
+## How to Run 🛠️
 
 ### Prerequisites
 Before you start, make sure you have Node.js and npm (or yarn) installed on your machine.
