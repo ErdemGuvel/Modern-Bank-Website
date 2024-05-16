@@ -1,42 +1,43 @@
 # Bankly - Modern Banking Application
 
-Live -> banklybank.netlify.app
+Live Demo: [banklybank.netlify.app](https://banklybank.netlify.app)
 
 Bankly is a modern banking application built using React.js and Tailwind CSS, compiled swiftly with Vite. This template offers various sections tailored for the banking sector, providing both design and functionality.
 
 ## Sections
 
-### Navbar
+### Navbar 🧭
 The navigation bar located at the top of the application, allowing users to easily navigate to different pages.
 
-### Hero
+### Hero 🚀
 The top section of the homepage featuring a large headline and captivating images.
 
-### Stats
+### Stats 📊
 Displays important statistics and data of the application.
 
-### Business
+### Business 💼
 Introduces banking services and products.
 
-### Billing
+### Billing 💳
 Allows managing billing and payment information.
 
-### CardDeal
+### CardDeal 💳
 Presents credit card offers and deals.
 
-### Testimonials
+### Testimonials 🗣️
 Showcases customer feedback and satisfaction.
 
-### Clients
+### Clients 🤝
 Displays logos of clients or partners.
 
-### CTA (Call to Action)
+### CTA (Call to Action) 📢
 A highlighted section guiding users to take a specific action.
 
-### Footer
+### Footer 🌐
 Contains general information and links at the bottom of the application.
 
 ## Languages and Technologies Used
+
 - HTML
 - CSS (Styled with Tailwind CSS)
 - JavaScript
